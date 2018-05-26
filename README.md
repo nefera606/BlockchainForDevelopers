@@ -1,5 +1,7 @@
 # BlockchainForDevelopers
 
+Partimos del entorno creado en el manual.
+
 Descargar y ejecutar:
 ```
 $ npm install
@@ -10,6 +12,7 @@ $ ganache-cli --port 8545
 ```
 Y en otro terminal
 ```
+$ truffle migrate
 $ node main.js
 ```
 Esto expone una API muy sencilla en el puerto 3000
