@@ -4,6 +4,14 @@ Descargar y ejecutar:
 ```
 $ npm install
 ```
+Despues ejecutar:
+```
+$ ganache-cli --port 8545
+```
+Y en otro terminal
+```
+$ node main.js
+```
 Esto expone una API muy sencilla en el puerto 3000
 
 ## /send
