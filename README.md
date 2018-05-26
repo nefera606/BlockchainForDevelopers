@@ -19,6 +19,9 @@ Body (Ejemplo):
 ```
 
 ## /balanceOf:address
-tipo:GET
+tipo: GET
 
 Argumento: address sin "0x"
+
+*Manual del curso*
+https://docs.google.com/document/d/1WfB6a6yXWmdtRu7RM96kR2TZi-cyLycjP2DMKt5SiDQ/edit
