@@ -8,6 +8,7 @@ Esto expone una API muy sencilla en el puerto 3000
 
 ## /send
 tipo: POST
+
 Body (Ejemplo):
 ```
 {
@@ -19,4 +20,5 @@ Body (Ejemplo):
 
 ## /balanceOf:address
 tipo:GET
+
 Argumento: address sin "0x"
