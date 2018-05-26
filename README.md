@@ -6,7 +6,7 @@ $ npm install
 ```
 Esto expone una API muy sencilla en el puerto 3000
 
-##/send
+## /send
 tipo: POST
 Body (Ejemplo):
 ```
@@ -17,6 +17,6 @@ Body (Ejemplo):
 }
 ```
 
-##/balanceOf:address
+## /balanceOf:address
 tipo:GET
 Argumento: address sin "0x"
